@@ -9,7 +9,7 @@ class Member {
 }
 
 public class DIprac {
-
+	//Git test
     public static void main(String[] args) {
         // 날짜를 구하기 위해서는 Date 클래스에 의존해야 한다.
         Date date = new Date();
